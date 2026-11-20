@@ -4,3 +4,6 @@
 [submodule "Documentation/TIMESTEP-SE-sandbox"]
 	path = Documentation/TIMESTEP-SE-sandbox
 	url = https://github.com/soleyhyman/TIMESTEP-SE-sandbox.git
+[submodule "Optimization/orbits-py"]
+	path = Optimization/orbits-py
+	url = https://github.com/rndsrc/orbits-py.git
